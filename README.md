@@ -1,0 +1,1 @@
+$ sudo apt-get install ruby-rails-3.2 sqlite3 libsqlite3-dev git emacs
